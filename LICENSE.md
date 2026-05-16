@@ -1,4 +1,4 @@
-# 
+# instant nft trading bot | snipe-list-management + slippage-control is the best nft trading bot, featuring snipe-list-management and slippage-control. Fast, smart, and optimized
 
 
 
